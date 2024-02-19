@@ -20,7 +20,7 @@ Alexander, 17 years old, is a student of a technical school and university. I ha
 ### My opensource projects
 
 *   [Book tracker](https://github.com/Merrcurys/Visual-list-of-books-app) - This is a desktop application written in PyQt5, in which you can track the books you have read graphically, as well as add quotes.
-*   Mentions TelegramBot - in development..
+*   [Mention Bot](https://github.com/Merrcurys/Mention-bot) - A bot for mentioning users in telegram chats.
 
 <p align='center'>
    📫 How to reach me via telegram: <a href='https://t.me/merrcurys'>@merrcurys</a>
