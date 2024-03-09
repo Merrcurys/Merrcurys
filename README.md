@@ -3,7 +3,7 @@ Alexander, 17 years old, is a student of a technical school and university. I ha
 
 <p align='center'>
    <a href="https://github.com/merrcurys/github-readme-stats"><img height=170
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=merrcurys&layout=compact"/></a>
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=merrcurys&layout=compact&theme=dark"/></a>
 </p>
 
 ### Key points
