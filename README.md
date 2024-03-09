@@ -14,7 +14,7 @@ Alexander, 17 years old, is a student of a technical school and university. I ha
 ## 🛠 Technical Stack
 *   [Python](https://merrcurys.ru/img/diplomas/diplom_python.jpg)
 *   C#
-*   MySQL, PostgreSQL
+*   MSSQL, PostgreSQL
 *   HTML / CSS / [JS](https://merrcurys.ru/img/diplomas/diplom_js.png)
 
 ### My opensource projects
