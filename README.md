@@ -11,11 +11,14 @@ Alexander, 17 years old, is a student of a technical school and university. I ha
 *   Entered the [Moscow Instrument Engineering College](https://mpt.ru) - 2022.
 *   Entered the [Plekhanov Russian University of Economics](https://рэу.рф) - 2023.
 
-## 🛠 Technical Stack
+## 🛠 Dealt with
 *   [Python](https://merrcurys.ru/img/diplomas/diplom_python.jpg)
-*   C#
-*   MSSQL, PostgreSQL
+*   C# / C++
+*   Java
+*   T-SQL, PostgreSQL, MySQL
 *   HTML / CSS / [JS](https://merrcurys.ru/img/diplomas/diplom_js.png)
+*   Solidity
+*   Linux - Ubuntu
 
 ### My opensource projects
 
