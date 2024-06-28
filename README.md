@@ -1,5 +1,5 @@
 ### Hi, I'm Alexander👋
-Alexander, 17 years old, is a student of a technical school and university. I have been learning to program in various languages using various technologies since I was 14 years old. I program in Python most of all.
+Alexander, 18 years old, is a student of a technical school and university. I have been learning to program in various languages using various technologies since I was 14 years old. I program in Python most of all.
 
 <p align='center'>
    <a href="https://github.com/merrcurys/github-readme-stats"><img height=170
@@ -18,7 +18,6 @@ Alexander, 17 years old, is a student of a technical school and university. I ha
 *   T-SQL, PostgreSQL, MySQL
 *   HTML / CSS / [JS](https://merrcurys.ru/img/diplomas/diplom_js.png)
 *   Solidity
-*   Linux - Ubuntu
 
 ### My opensource projects
 
