@@ -1,10 +1,11 @@
 ### Hi, I'm Alexander👋
 Alexander, 18 years old, is a student of a technical school and university. I have been learning to program in various languages using various technologies since I was 14 years old. I program in Python most of all.
 
-<p align='center'>
-   <a href="https://github.com/merrcurys/github-readme-stats"><img height=170
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=merrcurys&layout=compact&theme=dark"/></a>
-</p>
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Merrcurys&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Merrcurys&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Merrcurys&theme=github_dark" alt=""/>
+</div>
 
 ### Key points
 *   Studying at [Yandex Lyceum](https://lyceum.yandex.ru/python) for industrial programming in Python (2021 - 2023)
