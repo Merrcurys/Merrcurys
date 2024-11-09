@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=3968ED&repeat=false&width=435&lines=Welcome+to+my+profile%F0%9F%91%8B)](https://git.io/typing-svg)
-
 Alexander, 18 years old, is a student of a technical school and university. I have been learning to program in various languages using various technologies since I was 14 years old. I program in Python most of all.
 
 <div id="stat" align="center">
