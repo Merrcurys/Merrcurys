@@ -27,6 +27,9 @@ Alexander, 18 years old, is a student of a technical school and university. I ha
 *   [Mention Bot](https://github.com/Merrcurys/Mention-bot) - A bot for mentioning users in telegram chats.
 *   [Book tracker](https://github.com/Merrcurys/Visual-list-of-books-app) - This is a desktop application written in PyQt5, in which you can track the books you have read graphically, as well as add quotes.
 
-<p align='center'>
-   📫 How to reach me via telegram: <a href='https://t.me/merrcurys'>@merrcurys</a>
+
+
+<h3 align="center">How to contact me</h3>
+<p align="center">
+<a href="https://t.me/merrcurys"><img src="https://raw.githubusercontent.com/broGideon/MyCustomization/main/Icons/telegram.svg" height="70" width="70"/></a>
 </p>
