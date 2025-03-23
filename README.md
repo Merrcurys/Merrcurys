@@ -11,15 +11,16 @@ Alexander, 18 years old, is a student of a technical school and university. I ha
 *   Studying at [Plekhanov Russian University of Economics](https://рэу.рф) (2023 - present)
 
 ## 🛠 Dealt with
-*   [Python](https://merrcurys.ru/img/diplomas/diplom_python.jpg) / Flask, Telegram Bots
+*   [Python](https://merrcurys.ru/img/diplomas/diplom_python.jpg) / Telegram Bots
 *   Data Analytics / Data Science
 *   C# / WPF, ASP.NET, Unity 
 *   C++ / [Arduino](https://wokwi.com/makers/merrcurys)
 *   Java / Android
 *   T-SQL, PostgreSQL, MySQL
-*   HTML, CSS, [JS](https://merrcurys.ru/img/diplomas/diplom_js.png) / React
+*   HTML, CSS, [JS](https://merrcurys.ru/img/diplomas/diplom_js.png)
 *   Solidity
 *   Blender
+*   Linux
 *   Testing
 
 ### My opensource projects
