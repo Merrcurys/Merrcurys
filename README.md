@@ -33,3 +33,9 @@ Alexander, 18 years old, is a student of a technical school and university. I ha
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" width="180" alt="Telegram Badge"/>
   </a>
 </div>
+
+<div id="views" align="center">
+    <img src="https://komarev.com/ghpvc/?username=Merrcurys&style=flat&color=blue" alt=""/>
+</div>
+
+
