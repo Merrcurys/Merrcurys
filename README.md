@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4b3aba,100:9090e8&text=Hello%20World&textBg=false&fontAlignY=40&reversal=false&section=header&desc=Welcome%20to%20my%20GitHub&fontColor=FFF&descAlignY=54&fontSize=70)
 
-Alexander, 18 years old, is a student of a technical school and university. I have been learning to program in various languages using various technologies since I was 14 years old. I program in Python most of all.
+Alexander, 19 years old (2006), is a student of a technical school and university. I have been learning to program in various languages using various technologies since I was 14 years old (2020). I program in Python most of all.
 
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Merrcurys&theme=github_dark" alt=""/>
@@ -11,17 +11,18 @@ Alexander, 18 years old, is a student of a technical school and university. I ha
 *   Studying at [Yandex Lyceum](https://lyceum.yandex.ru/python) for industrial programming in Python (2021 - 2023)
 *   Studying at [Moscow Instrument Engineering College](https://mpt.ru) (2022 - present)
 *   Studying at [Plekhanov Russian University of Economics](https://рэу.рф) (2023 - present)
+*   Internship mobile developer at [GAZPROM AUTOMATION](https://gazprom-auto.ru) (2025)
 
 ## 🛠 Dealt with
 
 | Category               | Technologies / Tools                                |
 |------------------------|-----------------------------------------------------|
-| 🐍 [Python](https://merrcurys.ru/img/diplomas/diplom_python.jpg) | Telegram Bots, Data Analytics, Data Science |
+| 🐍 [Python](https://merrcurys.ru/img/python-certificat.jpg) | Telegram Bots, Data Analytics, Data Science |
 | 🖥 C#                  | WPF, ASP.NET, Unity                                   |
 | ⚙️ C++                 | [Arduino](https://wokwi.com/makers/merrcurys)        |
-| 📱 Java                | Android                                              |
+| 📱 Android             | Java, Kotlin                                         |
 | 💾 Databases           | T-SQL, PostgreSQL, MySQL                             |
-| 🌐 Web technologies    | HTML, CSS, [JavaScript](https://merrcurys.ru/img/diplomas/diplom_js.png) |
+| 🌐 Web technologies    | HTML, CSS, [JavaScript](https://merrcurys.ru/img/js-certificate.png) |
 | 🛡️ Smart Contracts     | Solidity                                             |
 | 🛠 Other               | Blender, Linux, Git                                  |
 
