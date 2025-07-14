@@ -31,7 +31,7 @@ Alexander, 19 years old (2006), is a student of a technical school and universit
 ### My opensource projects
 
 *   [Mention Bot](https://github.com/Merrcurys/Mention-bot) - A bot for mentioning users in telegram chats.
-*   [QRBonus](https://github.com/Merrcurys/QRBonus) - This is a modern Android app for storing and generating virtual loyalty cards with barcode and qr-code support.
+*   [Море карт](https://github.com/Merrcurys/SeaCard) - This is a modern Android app for storing and generating virtual loyalty cards with barcode and qr-code support.
 *   [Book tracker](https://github.com/Merrcurys/Visual-list-of-books-app) - This is a desktop application written in PyQt5, in which you can track the books you have read graphically, as well as add quotes.
 
 <h3 align="center">How to contact me</h3>
