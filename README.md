@@ -24,7 +24,7 @@ Alexander, 19 years old (2006), is a student of a technical school and universit
 | 💾 Databases           | T-SQL, PostgreSQL, MySQL                             |
 | 🌐 Web technologies    | HTML, CSS, [JavaScript](https://merrcurys.ru/img/js-certificate.png) |
 | 🛡️ Smart Contracts     | Solidity                                             |
-| 🔧 DevOps              | Docker                                               |
+| 🐋 DevOps              | Docker                                               |
 | 🛠 Other               | Linux, Git, Blender                                   |
 
 
