@@ -20,7 +20,7 @@ Alexander, 19 years old (2006), is a student of a technical school and universit
 | 🐍 [Python](https://merrcurys.ru/img/python-certificat.jpg) | Telegram Bots, Data Analytics, Data Science |
 | 🖥 C#                  | WPF, ASP.NET, Unity                                   |
 | ⚙️ C++                 | [Arduino](https://wokwi.com/makers/merrcurys)        |
-| 📱 Android             | Java, Kotlin                                         |
+| 📱 Android             | Java, Kotlin, Dart                                   |
 | 💾 Databases           | T-SQL, PostgreSQL, MySQL                             |
 | 🌐 Web technologies    | HTML, CSS, [JavaScript](https://merrcurys.ru/img/js-certificate.png) |
 | 🛡️ Smart Contracts     | Solidity                                             |
@@ -32,7 +32,7 @@ Alexander, 19 years old (2006), is a student of a technical school and universit
 ### My opensource projects
 
 *   [Mention Bot](https://github.com/Merrcurys/Mention-bot) - A bot for mentioning users in telegram chats.
-*   [SeaCard](https://github.com/Merrcurys/SeaCard) - This is a modern Android app for storing and generating virtual loyalty cards with barcode and qr-code support.
+*   [SeaCard](https://github.com/Merrcurys/SeaCard) - This is a modern Android app for storing and generating virtual loyalty cards with barcode and qr-code support. More than 10.000 users.
 *   [Book tracker](https://github.com/Merrcurys/Visual-list-of-books-app) - This is a desktop application written in PyQt5, in which you can track the books you have read graphically, as well as add quotes.
 
 <h3 align="center">How to contact me</h3>
