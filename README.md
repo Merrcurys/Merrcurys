@@ -33,6 +33,7 @@ Alexander, 19 years old (2006), is a student of a technical school and universit
 
 *   [Mention Bot](https://github.com/Merrcurys/Mention-bot) - A bot for mentioning users in telegram chats.
 *   [SeaCard](https://github.com/Merrcurys/SeaCard) - This is a modern Android app for storing and generating virtual loyalty cards with barcode and qr-code support. More than 10.000 users.
+*   [My MPT](https://github.com/Merrcurys/MyMPT) - A mobile application for MPT students that allows you to view class schedules, calls, and other useful information.
 *   [Book tracker](https://github.com/Merrcurys/Visual-list-of-books-app) - This is a desktop application written in PyQt5, in which you can track the books you have read graphically, as well as add quotes.
 
 <h3 align="center">How to contact me</h3>
