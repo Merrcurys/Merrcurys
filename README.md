@@ -12,6 +12,7 @@ Alexander, 19 years old (2006), is a student of a technical school and universit
 *   Studying at [Moscow Instrument Engineering College](https://mpt.ru) (2022 - present)
 *   Studying at [Plekhanov Russian University of Economics](https://рэу.рф) (2023 - present)
 *   Internship mobile developer at [GAZPROM AUTOMATION](https://gazprom-auto.ru) (2025)
+*   Monitoring engineer at [Russian Agricultural Bank (RSHB)](https://www.rshb.ru) (2025)
 
 ## 🛠 Dealt with
 
