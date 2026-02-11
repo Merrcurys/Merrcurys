@@ -7,10 +7,12 @@ Alexander, 19 years old (2006), is a student of a technical school and universit
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Merrcurys&theme=github_dark" alt=""/>
 </div>
 
-### Key points
+### Education
 *   Studying at [Yandex Lyceum](https://lyceum.yandex.ru/python) for industrial programming in Python (2021 - 2023)
 *   Studying at [Moscow Instrument Engineering College](https://mpt.ru) (2022 - present)
 *   Studying at [Plekhanov Russian University of Economics](https://рэу.рф) (2023 - present)
+
+### Work experience
 *   Internship mobile developer at [GAZPROM AUTOMATION](https://gazprom-auto.ru) (2025)
 *   Monitoring engineer at [Russian Agricultural Bank (RSHB)](https://www.rshb.ru) (2025 - present)
 
@@ -21,12 +23,12 @@ Alexander, 19 years old (2006), is a student of a technical school and universit
 | 🐍 [Python](https://merrcurys.ru/img/certificates/python-certificat.jpg) | Telegram Bots, Data Analytics, Data Science |
 | 🖥 C#                  | WPF, ASP.NET, Unity                                   |
 | ⚙️ C++                 | [Arduino](https://wokwi.com/makers/merrcurys)        |
-| 📱 Android             | Java, Kotlin, Dart                                   |
+| 📱 Android             | Java, Kotlin, Flutter                                |
 | 💾 Databases           | T-SQL, PostgreSQL, MySQL                             |
 | 🌐 Web technologies    | HTML, CSS, [JavaScript](https://merrcurys.ru/img/certificates/js-certificate.png) |
 | 🛡️ Smart Contracts     | Solidity                                             |
-| 🐋 DevOps              | Docker, Grafana, Prometheus                          |
-| 🛠 Other               | Linux, Git, Blender                                   |
+| 🐋 DevOps              | Docker, Git, Linux                                   |
+| 📊 Monitoring          | Grafana, Prometheus, Zabbix                          |
 
 
 
