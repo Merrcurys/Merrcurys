@@ -3,8 +3,10 @@
 Alexander, 19 years old (2006), is a student of a technical school and university. I have been learning to program in various languages using various technologies since I was 14 years old (2020). I program in Python most of all.
 
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Merrcurys&theme=github_dark" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Merrcurys&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Merrcurys&theme=github_dark" alt=""/>
+    <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Merrcurys&theme=github_dark" alt=""/> -->
+    <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Merrcurys&theme=github_dark&utcOffset=3" alt=""/> -->
 </div>
 
 ### Education
