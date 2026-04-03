@@ -25,7 +25,7 @@ Alexander, 19 years old (2006), is a student of a technical school and universit
 | 🐍 [Python](https://merrcurys.ru/img/certificates/python-certificat.jpg) | Telegram Bots, Data Analytics, Data Science |
 | 🖥 C#                  | WPF, ASP.NET, Unity                                   |
 | ⚙️ C++                 | [Arduino](https://wokwi.com/makers/merrcurys)        |
-| 📱 Android             | Java, Kotlin, Flutter                                |
+| 📱 Android             | Java, [Kotlin](https://merrcurys.ru/img/certificates/kotlin-certificate.png), Flutter |
 | 💾 Databases           | T-SQL, PostgreSQL, MySQL                             |
 | 🌐 Web technologies    | HTML, CSS, [JavaScript](https://merrcurys.ru/img/certificates/js-certificate.png) |
 | 🛡️ Smart Contracts     | Solidity                                             |
