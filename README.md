@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4b3aba,100:9090e8&text=Hello%20World&textBg=false&fontAlignY=40&reversal=false&section=header&desc=Welcome%20to%20my%20GitHub&fontColor=FFF&descAlignY=54&fontSize=70)
 
-Alexander, 19 years old (2006), is a student of a technical school and university. I have been learning to program in various languages using various technologies since I was 14 years old (2020). I program in Python most of all.
+Alexander, 20 years old (2006), is a student of a technical school and university. I have been learning to program in various languages using various technologies since I was 14 years old (2020). I program in Python most of all.
 
 <div id="stat" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Merrcurys&theme=github_dark" alt=""/>
