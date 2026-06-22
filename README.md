@@ -11,8 +11,8 @@ Alexander, 19 years old (2006), is a student of a technical school and universit
 
 ### Education
 *   Studying at [Yandex Lyceum](https://lyceum.yandex.ru/python) for industrial programming in Python (2021 - 2023)
-*   Studying at [Moscow Instrument Engineering College](https://mpt.ru) (2022 - present)
-*   Studying at [Plekhanov Russian University of Economics](https://рэу.рф) (2023 - present)
+*   Studying at [Moscow Instrument Engineering College](https://mpt.ru) (2022 - 2026) - [archive](https://github.com/Archive-of-practical-work-for-the-MPT)
+*   Studying at [Plekhanov Russian University of Economics](https://рэу.рф) (2023 - present) - [archive](https://github.com/Archive-of-practical-work-for-the-PRUE)
 
 ### Work experience
 *   Internship mobile developer at [GAZPROM AUTOMATION](https://gazprom-auto.ru) (2025)
@@ -26,19 +26,19 @@ Alexander, 19 years old (2006), is a student of a technical school and universit
 | 🖥 C#                  | WPF, ASP.NET, Unity                                   |
 | ⚙️ C++                 | [Arduino](https://wokwi.com/makers/merrcurys)        |
 | 📱 Android             | Java, [Kotlin](https://merrcurys.ru/img/certificates/kotlin-certificate.png), Flutter |
-| 💾 Databases           | T-SQL, PostgreSQL, MySQL                             |
+| 💾 Databases           | T-SQL, PostgreSQL, MySQL, ClickHouse                 |
 | 🌐 Web technologies    | HTML, CSS, [JavaScript](https://merrcurys.ru/img/certificates/js-certificate.png) |
 | 🛡️ Smart Contracts     | Solidity                                             |
 | 🐋 DevOps              | Docker, Git, Linux                                   |
-| 📊 Monitoring          | Grafana, Prometheus, Zabbix                          |
+| 📊 Monitoring          | Grafana, Prometheus, Zabbix, VictoriaMetrics         |
 
 
 
 ### My opensource projects
 
 *   [Mention Bot](https://github.com/Merrcurys/Mention-bot) - A bot for mentioning users in telegram chats.
-*   [SeaCard](https://github.com/Merrcurys/SeaCard) - This is a modern Android app for storing and generating virtual loyalty cards with barcode and qr-code support. More than **25.000** users.
-*   [My MPT](https://github.com/Merrcurys/MyMPT) - A mobile application for MPT students that allows you to view class schedules, calls, and other useful information.
+*   [SeaCard](https://github.com/Merrcurys/SeaCard) - This is a modern Android app for storing and generating virtual loyalty cards with barcode and qr-code support. More than **40.000+** users.
+*   [My MPT](https://github.com/Merrcurys/MyMPT) - A mobile application for MPT students that allows you to view class schedules, calls, and other useful information. It is used by all students of the educational institution.
 *   [Book tracker](https://github.com/Merrcurys/Visual-list-of-books-app) - This is a desktop application written in PyQt5, in which you can track the books you have read graphically, as well as add quotes.
 
 <h3 align="center">How to contact me</h3>
