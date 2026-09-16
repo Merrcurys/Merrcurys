@@ -29,7 +29,7 @@ Alexander, 20 years old (2006), is a student of a technical school and universit
 | 💾 Databases           | T-SQL, PostgreSQL, MySQL, ClickHouse                 |
 | 🌐 Web technologies    | HTML, CSS, [JavaScript](https://merrcurys.ru/img/certificates/js-certificate.png) |
 | 🛡️ Smart Contracts     | Solidity                                             |
-| 🐋 DevOps              | Docker, Git, Linux                                   |
+| 🐋 DevOps              | Docker, [Git](https://merrcurys.ru/img/certificates/git-certificate.png), Linux   |
 | 📊 Monitoring          | Grafana, Prometheus, Zabbix, VictoriaMetrics         |
 
 
