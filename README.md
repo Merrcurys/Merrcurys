@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4b3aba,100:9090e8&text=Hello%20World&textBg=false&fontAlignY=40&reversal=false&section=header&desc=Welcome%20to%20my%20GitHub&fontColor=FFF&descAlignY=54&fontSize=70)
 
-Alexander, 20 years old (2006), is a student of a technical school and university. I have been learning to program in various languages using various technologies since I was 14 years old (2020). I program in Python most of all.
+My name is Alexander. I’m 20 years old now (2006), and since I was 19, I’ve been working as a monitoring engineer at [Russian Agricultural Bank](https://www.rshb.ru/) (RusAg, RSHB). I’m the one who managed to combine full‑time work, studies at a technical college and a university — and at the same time launch pet projects.
+
+My journey in IT began with learning the basics of programming at [Yandex Lyceum](https://lyceum.yandex.ru), where I mastered Python and the basics of algorithmization when I was 14.
+
+Recently, I graduated with honors from the [Moscow Instrument‑Making College](https://mpt.ru) of the [Plekhanov Russian University of Economics](https://rea.ru). At the same time, I was studying and am still finishing my fourth year at the Plekhanov Russian University of Economics. In my free time, apart from studying and working, I work on my pet projects.
 
 <div id="stat" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Merrcurys&theme=github_dark" alt=""/>
