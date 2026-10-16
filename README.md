@@ -4,7 +4,7 @@ My name is Alexander. I’m 20 years old now (2006), and since I was 19, I’ve 
 
 My journey in IT began with learning the basics of programming at [Yandex Lyceum](https://lyceum.yandex.ru), where I mastered Python and the basics of algorithmization when I was 14.
 
-Recently, I graduated with honors from the [Moscow Instrument‑Making College](https://mpt.ru) of the [Plekhanov Russian University of Economics](https://rea.ru). At the same time, I was studying and am still finishing my fourth year at the Plekhanov Russian University of Economics. In my free time, apart from studying and working, I work on my pet projects.
+Recently, I graduated with honors from the [Moscow Instrument Engineering College](https://mpt.ru) of the [Plekhanov Russian University of Economics](https://rea.ru). At the same time, I was studying and am still finishing my fourth year at the Plekhanov Russian University of Economics. In my free time, apart from studying and working, I work on my pet projects.
 
 <div id="stat" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Merrcurys&theme=github_dark" alt=""/>
@@ -40,9 +40,11 @@ Recently, I graduated with honors from the [Moscow Instrument‑Making College](
 
 ### My opensource projects
 
-*   [Mention Bot](https://github.com/Merrcurys/Mention-bot) - A bot for mentioning users in telegram chats.
 *   [SeaCard](https://github.com/Merrcurys/SeaCard) - This is a modern Android app for storing and generating virtual loyalty cards with barcode and qr-code support. More than **50.000+** users.
+*   [Mention Bot](https://github.com/Merrcurys/Mention-bot) - A Telegram bot that can notify all users in the chat. The bot can send notifications to everyone or only to administrators. All logs are anonymous.
 *   [My MPT](https://github.com/AppMyMPT/MyMPT) - A mobile application for MPT students that allows you to view class schedules, calls, and other useful information. It is used by all students of the educational institution.
+*   [SIPhone](https://github.com/Merrcurys/SIPhone) - This is an example of an Android app for making calls via the SIP protocol in Kotlin using the Linphone SDK.
+*   [Oxygen Theme](https://github.com/Merrcurys/Oxygen-Theme) - This is a theme VSC for lovers of minimalism and blue-purple colors.
 *   [Book tracker](https://github.com/Merrcurys/Visual-list-of-books-app) - This is a desktop application written in PyQt5, in which you can track the books you have read graphically, as well as add quotes.
 
 <h3 align="center">How to contact me</h3>
