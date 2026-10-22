@@ -45,7 +45,7 @@ Recently, I graduated with honors from the [Moscow Instrument Engineering Colleg
 *   [My MPT](https://github.com/AppMyMPT/MyMPT) - A mobile application for MPT students that allows you to view class schedules, calls, and other useful information. It is used by all students of the educational institution.
 *   [SIPhone](https://github.com/Merrcurys/SIPhone) - This is an example of an Android app for making calls via the SIP protocol in Kotlin using the Linphone SDK.
 *   [Oxygen Theme](https://github.com/Merrcurys/Oxygen-Theme) - This is a theme VSC for lovers of minimalism and blue-purple colors.
-*   [Book tracker](https://github.com/Merrcurys/Visual-list-of-books-app) - This is a desktop application written in PyQt5, in which you can track the books you have read graphically, as well as add quotes.
+*   [Book tracker](https://github.com/Merrcurys/Visual-list-of-books-app) - This is a desktop application written in PyQt6, in which you can track the books you have read graphically, as well as add quotes.
 
 <h3 align="center">How to contact me</h3>
 <div id="badges" align="center">
